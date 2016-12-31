@@ -8,3 +8,5 @@ A dataset of 15,000 hybrid apps which use either:
 ```
 mongorestore --collection nameOfCollection --db nameOfDb pathToBsonFile
 ```
+## Related Publication
+[Mining and characterizing hybrid apps](http://dl.acm.org/citation.cfm?id=2993263)
